@@ -103,7 +103,7 @@ The market was largely dominated by Fear and Greed phases, showing that crypto t
 
 ## Visualization
 
-<img width="800" alt="Sentiment Distribution" src="1.png">
+<img width="800" alt="Sentiment Distribution" src="https://github.com/shivanam28/AI-Trading-Sentiment-Analysis/blob/main/1.png">
 
 ---
 
@@ -123,7 +123,7 @@ Bullish momentum strongly improves trader profitability, while volatile fear con
 
 ##  Visualization
 
-<img width="800" alt="Average PnL by Sentiment" src="2.png">
+<img width="800" alt="Average PnL by Sentiment" src="https://github.com/shivanam28/AI-Trading-Sentiment-Analysis/blob/main/2.png">
 
 ---
 
@@ -142,7 +142,7 @@ Traders become more aggressive during volatile fear conditions, indicating eleva
 
 ##  Visualization
 
-<img width="800" alt="Trade Size Analysis" src="3.png">
+<img width="800" alt="Trade Size Analysis" src="https://github.com/shivanam28/AI-Trading-Sentiment-Analysis/blob/main/3.png">
 
 ---
 
@@ -161,7 +161,7 @@ Trader decisions are heavily influenced by market psychology and emotional condi
 
 ##  Visualization
 
-<img width="800" alt="Buy Sell Analysis" src="4.png">
+<img width="800" alt="Buy Sell Analysis" src="https://github.com/shivanam28/AI-Trading-Sentiment-Analysis/blob/main/4.png">
 
 ---
 
@@ -181,7 +181,7 @@ Crypto trading remains highly volatile and risky even during favorable market co
 
 ##  Visualization
 
-<img width="800" alt="Win Rate Analysis" src="5.png">
+<img width="800" alt="Win Rate Analysis" src="https://github.com/shivanam28/AI-Trading-Sentiment-Analysis/blob/main/5.png">
 
 ---
 
@@ -200,7 +200,7 @@ Extreme sentiment phases create both larger opportunities and larger risks.
 
 ##  Visualization
 
-<img width="800" alt="Profit Distribution" src="6.png">
+<img width="800" alt="Profit Distribution" src="https://github.com/shivanam28/AI-Trading-Sentiment-Analysis/blob/main/6.png">
 
 ---
 
@@ -219,7 +219,7 @@ Aggressive trading strategies increase both reward potential and financial risk.
 
 ##  Visualization
 
-<img width="800" alt="Correlation Heatmap" src="7.png">
+<img width="800" alt="Correlation Heatmap" src="https://github.com/shivanam28/AI-Trading-Sentiment-Analysis/blob/main/7.png">
 
 ---
 
